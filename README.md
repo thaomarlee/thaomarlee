@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marlee!                           
 <br/>An aspiring Data Analyst from Charlotte, NC.
- <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+ <br/></h1>
 <b> Web Scraping Projects to extract data from websites </b><br/>
 - Excel Projects (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
