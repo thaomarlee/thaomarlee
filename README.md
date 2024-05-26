@@ -76,10 +76,9 @@ and drive positive change in organizations and communities. <br/></h1>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-
-
 <h2> :selfie: Connect with me:</h2>
-[<img align="left" alt="Marlee Thao | Gmail" width="22px" src=[gmail icon](https://github.com/thaomarlee/thaomarlee/assets/164105768/4e0491ec-fc7e-4f18-99f1-45823d720633)
+[<img align="left" alt="Marlee Thao | Gmail" width="22px" src=
+con](https://github.com/thaomarlee/thaomarlee/assets/164105768/4e0491ec-fc7e-4f18-99f1-45823d720633)
 s://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin : https://linkedin.com/in/marleethao
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -90,23 +89,3 @@ s://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!--
 **joshmadakor1/joshmadakor1** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
-linkedin.comlinkedin.com
-Josh Madakor - LOG(N) Pacific | LinkedIn
-Cybersecurity and IT instructor<br>https://joshmadakor.tech · Experience: LOG(N) Pacific · Education: Western Governors University · Location: Greater Seattle Area · 500+ connections on LinkedIn. View Josh Madakor’s profile on LinkedIn, a professional community of 1 billion members.
-YouTubeYouTube
-Josh Madakor
-Hello Friend,
-This channel covers topics in cybersecurity, education, and general career improvement in tech.
-Thanks for visiting!
-Josh
-:desktop_computer: IT Course (Beginner) :desktop_computer:
-https://joshmadakor.tech/it
-:closed_lock_with_key: Cyber Course (Intermediate) :closed_lock_with_key:
-https://joshmadakor.tech/cyber
-:page_facing_up: Free IT Exam Test Banks :page_facing_up:
-https://joshmadakor.tech/exams
-Socials:
-https://linkedin.com/in/joshmadakor/
-https://joshmadakor.tech/
-Show less
