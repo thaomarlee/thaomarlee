@@ -34,7 +34,7 @@ and drive positive change in organizations and communities. <br/></h1>
       - Least 2 Salaried by Country 
     - Create a report with Bonus & Payout (Using XLookUp)
     - Employee Report with Bonus payout by Country and By Dept 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Excel - Project  GitHub.xlsx](https://github.com/thaomarlee/thaomarlee/files/15447277/Excel.-.Project.GitHub.xlsx)
 
 
 - <b>Visualization Using Excel Data with Power BI</b>
@@ -63,6 +63,7 @@ and drive positive change in organizations and communities. <br/></h1>
     - Sales  and Profit by Product
     - Filters: By Product, by Country, By Segment
   - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 - <b>Visualization of SQL Data with Power BI using Python Program</b>
