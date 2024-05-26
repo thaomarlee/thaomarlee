@@ -48,7 +48,7 @@ and drive positive change in organizations and communities. <br/></h1>
     - Sales by Product
     - Sales  and Profit by Product
     - Filters: By Product, by Country, By Segment
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 - <b>Visualization Using SQL Data with Power BI</b>
@@ -73,19 +73,14 @@ and drive positive change in organizations and communities. <br/></h1>
       - Employee County By Dept
       - Sum of Sal by Dept
       - Emp Count by Zip Code  
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2> :selfie: Connect with me:</h2>
-[<img align="left" alt="Marlee Thao | Gmail" width="22px" src=
-con](https://github.com/thaomarlee/thaomarlee/assets/164105768/4e0491ec-fc7e-4f18-99f1-45823d720633)
-s://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin : https://linkedin.com/in/marleethao
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: [https://linkedin.com/in/marleethao]
+
+<b>Resume: </b>
+[Resume -GitHub 2024.docx](https://github.com/thaomarlee/thaomarlee/files/15447449/Resume.-GitHub.2024.docx)
+
+[<img align="left" alt="Marlee Thao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin : https://linkedin.com/in/marleethao
 <!--
-**joshmadakor1/joshmadakor1** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 
