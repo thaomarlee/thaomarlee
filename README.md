@@ -48,7 +48,7 @@ and drive positive change in organizations and communities. <br/></h1>
     - Sales by Product
     - Sales  and Profit by Product
     - Filters: By Product, by Country, By Segment
-    - ![PowerBI Github](https://github.com/thaomarlee/thaomarlee/assets/164105768/c2f50d0e-a0a5-4be1-b9db-2ece947190b4)
+![PowerBI Github](https://github.com/thaomarlee/thaomarlee/assets/164105768/c2f50d0e-a0a5-4be1-b9db-2ece947190b4)
 
 
 - <b>Visualization Using SQL Data with Power BI</b>
@@ -58,7 +58,7 @@ and drive positive change in organizations and communities. <br/></h1>
     - Employee by Dept (Count(EmpID,Department Name)
     - Employee Sal by Dept (Sum(EmpSal),Department Name)
     - Employeesby Dept Name
-    - Filters: By Department, By Department City
+    - Filters: By Department, By Department Cit
     - Sales by Product
     - Sales  and Profit by Product
     - Filters: By Product, by Country, By Segment
