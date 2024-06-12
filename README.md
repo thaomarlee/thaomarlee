@@ -17,7 +17,7 @@ and drive positive change in organizations and communities. <br/></h1>
 - <b>Data Analysis Using Excel Data</b>
   - <b>Description:</b> Build a data analysis report using Salary Data for a company. Analytics includes below reports developed using Excel Pivot Tables, Formulas, and Functions
   - <b>Technology Used:</b> Microsoft Excel 
-  - [Excel - Project  GitHub.xlsx](https://github.com/thaomarlee/thaomarlee/files/15447277/Excel.-.Project.GitHub.xlsx)
+  - https://github.com/thaomarlee/Excel_Project_1/blob/main/Excel%20-%20Project1.xlsx
   - https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png
 
 
