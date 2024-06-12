@@ -17,24 +17,7 @@ and drive positive change in organizations and communities. <br/></h1>
 - <b>Data Analysis Using Excel Data</b>
   - <b>Description:</b> Build a data analysis report using Salary Data for a company. Analytics includes below reports developed using Excel Pivot Tables, Formulas, and Functions
   - <b>Technology Used:</b> Microsoft Excel 
-    - Statistical Methods - Emp Salary
-      - Average
-      - Median
-      - Mode 
-      - Max
-      - Min
-      - Sum
-    - Salaries by Department
-      - Using Formula 
-      - Using Pivot Table
-    - Top 2 Salaried by Department, Add a Slicer
-    - Least 2 Salaried by Deparment 
-    - Salaries By Country 
-      - Top 5 Salaried by Country, Add a Slicer
-      - Least 2 Salaried by Country 
-    - Create a report with Bonus & Payout (Using XLookUp)
-    - Employee Report with Bonus payout by Country and By Dept
-    - https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png
+  - https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png
   - [Excel - Project  GitHub.xlsx](https://github.com/thaomarlee/thaomarlee/files/15447277/Excel.-.Project.GitHub.xlsx)
 
 
