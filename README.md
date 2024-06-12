@@ -15,16 +15,16 @@ and drive positive change in organizations and communities. <br/></h1>
 <b> Portfolio Projects </b><br/>
 
 - <b>Data Analysis Using Excel Data</b>
-  - <b>Description:</b> Build a data analysis report using Salary Data for a company. Analytics includes below reports developed using Excel Pivot Tables, Formulas, and Functions
+  - <b>Description:</b> Build a data analysis report using Salary Data for a company. Analytics includes reports developed using Excel Pivot Tables, Formulas, and Functions
   - <b>Technology Used:</b> Microsoft Excel 
-  - [My Data EXCEL Project](https://github.com/thaomarlee/Excel_Project_1/blob/main/Excel%20-%20Project1.xlsx)
+  - [My EXCEL Project](https://github.com/thaomarlee/Excel_Project_1/blob/main/Excel%20-%20Project1.xlsx)
   - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png"></kbd>
 
 
 - <b>Visualization Using Excel Data with Power BI</b>
-  - <b>Description:</b> Build data analysis visuals dashboard using Sales Data of a company. Analysis includes the below reports developed using Power BI an Excel Data.
+  - <b>Description:</b> Build data analysis visuals dashboard using Sales Data of a company. Analysis includes reports developed using Power BI and Excel Data.
   - <b>Technology Used:</b> Microsoft Excel, Microsoft Power BI
-  - Excel Report used: 
+  - Excel Data Report Reference: https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/VGSales%20Data_Excel%20and%20PBI%20Project.xlsx
   - [My Excel Data with PowerBI Project](https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI-%20Project1.pbix)
   - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI%20-%20Project%201.png"></kbd>
 
