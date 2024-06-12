@@ -33,7 +33,8 @@ and drive positive change in organizations and communities. <br/></h1>
       - Top 5 Salaried by Country, Add a Slicer
       - Least 2 Salaried by Country 
     - Create a report with Bonus & Payout (Using XLookUp)
-    - Employee Report with Bonus payout by Country and By Dept 
+    - Employee Report with Bonus payout by Country and By Dept
+    - https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png
   - [Excel - Project  GitHub.xlsx](https://github.com/thaomarlee/thaomarlee/files/15447277/Excel.-.Project.GitHub.xlsx)
 
 
