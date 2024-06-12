@@ -28,7 +28,7 @@ and drive positive change in organizations and communities. <br/></h1>
     - Total Sales After the Year 2013 (Include 2013 Sales)
     - Display Total Sales separately by NA, EU, JP and Other
     - Create a Report for Average Sales by Genre
-      - Filters
+    - Filters
         - By Genre
         - By Platform
     ![PowerBI Github](https://github.com/thaomarlee/thaomarlee/assets/164105768/c2f50d0e-a0a5-4be1-b9db-2ece947190b4)
