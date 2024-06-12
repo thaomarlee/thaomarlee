@@ -17,21 +17,16 @@ and drive positive change in organizations and communities. <br/></h1>
 - <b>Data Analysis Using Excel Data</b>
   - <b>Description:</b> Build a data analysis report using Salary Data for a company. Analytics includes below reports developed using Excel Pivot Tables, Formulas, and Functions
   - <b>Technology Used:</b> Microsoft Excel 
-  - https://github.com/thaomarlee/Excel_Project_1/blob/main/Excel%20-%20Project1.xlsx
+  - [My Data EXCEL Project](https://github.com/thaomarlee/Excel_Project_1/blob/main/Excel%20-%20Project1.xlsx)
   - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/Excel-Projects/blob/main/Excel%20Project%201.png"></kbd>
 
 
 - <b>Visualization Using Excel Data with Power BI</b>
   - <b>Description:</b> Build data analysis visuals dashboard using Sales Data of a company. Analysis includes the below reports developed using Power BI an Excel Data.
-  - <b>Technology Used:</b> Microsoft Excel, Microsoft Power BI 
-    - Sales By Genre
-    - Total Sales After the Year 2013 (Include 2013 Sales)
-    - Display Total Sales separately by NA, EU, JP and Other
-    - Create a Report for Average Sales by Genre
-    - Filters
-        - By Genre
-        - By Platform
-    ![PowerBI Github](https://github.com/thaomarlee/thaomarlee/assets/164105768/c2f50d0e-a0a5-4be1-b9db-2ece947190b4)
+  - <b>Technology Used:</b> Microsoft Excel, Microsoft Power BI
+  - Excel Report used: 
+  - [My Excel Data with PowerBI Project](https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI-%20Project1.pbix)
+  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI%20-%20Project%201.png"></kbd>
 
 
 - <b>Visualization Using SQL Data with Power BI</b>
