@@ -57,7 +57,7 @@ and drive positive change in organizations and communities. <br/></h1>
 <h2> :selfie: Connect with me:</h2>
 
 <b>Resume: </b>
-[Resume -GitHub 2024.docx](https://github.com/thaomarlee/thaomarlee/files/15447449/Resume.-GitHub.2024.docx)
+(https://github.com/thaomarlee/Resume?tab=readme-ov-file)
 
 [<img align="left" alt="Marlee Thao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin : https://linkedin.com/in/marleethao
 <!--
