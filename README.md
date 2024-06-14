@@ -5,11 +5,10 @@
  <br/></h1>In my journey as a budding data analyst, I am guided by a set of core values that drive my work ethic, 
 decision-making, and interactions with data. 
 I believe the power of data-driven insights can help to unlock opportunities, solve complex problems, and make a meaningful impact.
- I value Integrity and accuracy so I approach every analysis with a commitment to honesty, transparency, and attention to detail. 
+ I value integrity and accuracy so I approach every analysis with a commitment to honesty, transparency, and attention to detail. 
 Collaboration and continuous learning are essential to me therefore I thrive in environments where diverse perspectives are valued. 
-I am actively seeking opportunities to expand my skills and knowledge. 
 Above all, I am passionate about leveraging data to empower decision-making, inform strategy, 
-and drive positive change in organizations and communities. <br/></h1>
+and drive positive change in organizations and communities. I am actively seeking opportunities to expand my skills and knowledge.  <br/></h1>
  <br/></h1>
  
 <b> Portfolio Projects </b><br/>
@@ -32,15 +31,9 @@ and drive positive change in organizations and communities. <br/></h1>
 - <b>Visualization Using SQL Data with Power BI</b>
   - <b>Description:</b> This project will use SQL Import Data from the SQL Database. 
   - <b>Technology Used:</b> Microsoft SQL Server, Microsoft Power BI
-  - <b>CSV Files Used:</b> 
-    - Report for Ethnicity by Business Unit – Pie Chart
-    - Count of Employees by Business Unit – Funnel Chart
-    - Avg of Salaries by Department – Gauge Chart
-    - Avg of Salaries by Department after Bonus (Revised Sal) – Gauge Chart
-    - Count of Employees by Dept_Zip Code – Clustered Bar Chart
-    - Count of Employees by Department – Clustered Col Chart
-    - [My Excel Data with PowerBI Project](https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI-%20Project1.pbix)
-  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI%20-%20Project%201.png"></kbd>
+  - <b>CSV Files Used:</b> https://github.com/thaomarlee/Visualization-Using-SQL-Data-with-Power-BI/blob/main/DepartmentSampleDataCSV%20(1).csv and https://github.com/thaomarlee/Visualization-Using-SQL-Data-with-Power-BI/blob/main/EmployeeSampleDataCSV%20(1).csv
+  - [My SQL Data with Power BI Project](https://github.com/thaomarlee/Visualization-Using-SQL-Data-with-Power-BI/blob/main/PowerBI%20using%20Direct%20Import.pbix)
+  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/Visualization-Using-SQL-Data-with-Power-BI/blob/main/Power%20BI%20using%20Direct%20Import.png"></kbd>
 
 - <b>Visualization of SQL Data with Power BI using Python Program</b>
     - <b>Description:</b> Build a data analysis visual using Sales Data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data.
