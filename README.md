@@ -30,19 +30,17 @@ and drive positive change in organizations and communities. <br/></h1>
 
 
 - <b>Visualization Using SQL Data with Power BI</b>
-  - <b>Description:</b> Build a data analysis visual using Sales Data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data.
+  - <b>Description:</b> This project will use SQL Import Data from the SQL Database. 
   - <b>Technology Used:</b> Microsoft SQL Server, Microsoft Power BI
-    - All Employee Data (based on Query)
-    - Employee by Dept (Count(EmpID,Department Name)
-    - Employee Sal by Dept (Sum(EmpSal),Department Name)
-    - Employeesby Dept Name
-    - Filters: By Department, By Department Cit
-    - Sales by Product
-    - Sales  and Profit by Product
-    - Filters: By Product, by Country, By Segment
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+  - <b>CSV Files Used:</b> 
+    - Report for Ethnicity by Business Unit – Pie Chart
+    - Count of Employees by Business Unit – Funnel Chart
+    - Avg of Salaries by Department – Gauge Chart
+    - Avg of Salaries by Department after Bonus (Revised Sal) – Gauge Chart
+    - Count of Employees by Dept_Zip Code – Clustered Bar Chart
+    - Count of Employees by Department – Clustered Col Chart
+    - [My Excel Data with PowerBI Project](https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI-%20Project1.pbix)
+  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/PowerBI-Project-using-Excel-Data/blob/main/PowerBI%20-%20Project%201.png"></kbd>
 
 - <b>Visualization of SQL Data with Power BI using Python Program</b>
     - <b>Description:</b> Build a data analysis visual using Sales Data of a company. Analysis includes the below reports to be developed using Power BI and SQL Data.
