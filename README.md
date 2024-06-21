@@ -42,8 +42,9 @@ and drive positive change in organizations and communities. I am actively seekin
       - Employee County By Dept
       - Sum of Sal by Dept
       - Emp Count by Zip Code  
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [My Visualization of SQL Data with Power BI using Python Program](https://github.com/thaomarlee/Python_Import-using-Power-BI-visual/blob/main/PythonSQL%20PBI.pbix)
+  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/Python_Import-using-Power-BI-visual/blob/main/Python%20Program.png"></kbd>
+  - <kbd><img width="397" alt="image" src="https://github.com/thaomarlee/Python_Import-using-Power-BI-visual/blob/main/PowerBI%20using%20Python%20Import.png"></kbd>
 
 <h2> :selfie: Connect with me:</h2>
 
